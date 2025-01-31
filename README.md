@@ -7,3 +7,8 @@ This project implemented preprocess, feature extration, train and detect differe
 The further description is coming soon.
 
 This project won the second prize in National College Student Software Innovation Competition(20th/1139)! Congratuations to my co-workers!
+
+<div align=center>
+<img src="771732636417_.pic_hd.jpg" width=80% >
+</div>
+
